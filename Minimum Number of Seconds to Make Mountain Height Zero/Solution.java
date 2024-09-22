@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 class Solution {
     public long minNumberOfSeconds(int mountainHeight, int[] workerTimes) {
