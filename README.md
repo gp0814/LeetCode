@@ -52,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gp0814/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gp0814/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Depth-First Search
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/gp0814/LeetCode/tree/master/3561-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/gp0814/LeetCode/tree/master/3561-remove-methods-from-project) |
+## Graph
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/gp0814/LeetCode/tree/master/3561-remove-methods-from-project) |
 <!---LeetCode Topics End-->
