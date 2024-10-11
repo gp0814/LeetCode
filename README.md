@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/gp0814/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1694-make-sum-divisible-by-p](https://github.com/gp0814/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/gp0814/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gp0814/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/gp0814/LeetCode/tree/master/0127-word-ladder) |
 | [0567-permutation-in-string](https://github.com/gp0814/LeetCode/tree/master/0567-permutation-in-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/gp0814/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/gp0814/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/gp0814/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Prefix Sum
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/gp0814/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/gp0814/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
