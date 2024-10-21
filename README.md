@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/gp0814/LeetCode/tree/master/0127-word-ladder) |
 | [0567-permutation-in-string](https://github.com/gp0814/LeetCode/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gp0814/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/gp0814/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/gp0814/LeetCode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gp0814/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/gp0814/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gp0814/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/gp0814/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/gp0814/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gp0814/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/gp0814/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Simulation
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gp0814/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Recursion
+|  |
+| ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/gp0814/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
