@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/gp0814/LeetCode/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gp0814/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/gp0814/LeetCode/tree/master/0567-permutation-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gp0814/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/gp0814/LeetCode/tree/master/0127-word-ladder) |
+| [0443-string-compression](https://github.com/gp0814/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/gp0814/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/gp0814/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gp0814/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
