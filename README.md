@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/gp0814/LeetCode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/gp0814/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/gp0814/LeetCode/tree/master/3195-separate-black-and-white-balls) |
+| [3312-number-of-changing-keys](https://github.com/gp0814/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3451-string-compression-iii](https://github.com/gp0814/LeetCode/tree/master/3451-string-compression-iii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gp0814/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/gp0814/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
