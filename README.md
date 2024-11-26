@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [3189-find-champion-ii](https://github.com/gp0814/LeetCode/tree/master/3189-find-champion-ii) |
 | [3561-remove-methods-from-project](https://github.com/gp0814/LeetCode/tree/master/3561-remove-methods-from-project) |
 ## Trie
 |  |
