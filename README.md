@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/gp0814/LeetCode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/gp0814/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gp0814/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gp0814/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gp0814/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gp0814/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gp0814/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/gp0814/LeetCode/tree/master/0127-word-ladder) |
 | [0787-sliding-puzzle](https://github.com/gp0814/LeetCode/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gp0814/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/gp0814/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/gp0814/LeetCode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/gp0814/LeetCode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gp0814/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/gp0814/LeetCode/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/gp0814/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3561-remove-methods-from-project](https://github.com/gp0814/LeetCode/tree/master/3561-remove-methods-from-project) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gp0814/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/gp0814/LeetCode/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/gp0814/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gp0814/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gp0814/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/gp0814/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Math
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/gp0814/LeetCode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/gp0814/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gp0814/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gp0814/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Queue
 |  |
 | ------- |
@@ -277,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gp0814/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/gp0814/LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
