@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gp0814/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gp0814/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/gp0814/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/gp0814/LeetCode/tree/master/0048-rotate-image) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gp0814/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gp0814/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gp0814/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/gp0814/LeetCode/tree/master/0031-next-permutation) |
 | [0443-string-compression](https://github.com/gp0814/LeetCode/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gp0814/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gp0814/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/gp0814/LeetCode/tree/master/0016-3sum-closest) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gp0814/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gp0814/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/gp0814/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
