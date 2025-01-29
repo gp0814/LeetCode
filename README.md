@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/gp0814/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/gp0814/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/gp0814/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gp0814/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/gp0814/LeetCode/tree/master/0127-word-ladder) |
 | [0407-trapping-rain-water-ii](https://github.com/gp0814/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0684-redundant-connection](https://github.com/gp0814/LeetCode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/gp0814/LeetCode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/gp0814/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gp0814/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/gp0814/LeetCode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/gp0814/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gp0814/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/gp0814/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/gp0814/LeetCode/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/gp0814/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gp0814/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
