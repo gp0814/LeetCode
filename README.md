@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gp0814/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/gp0814/LeetCode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gp0814/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/gp0814/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gp0814/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/gp0814/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/gp0814/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gp0814/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/gp0814/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/gp0814/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/gp0814/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/gp0814/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/gp0814/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gp0814/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/gp0814/LeetCode/tree/master/0204-count-primes) |
 | [0670-maximum-swap](https://github.com/gp0814/LeetCode/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/gp0814/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/gp0814/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gp0814/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gp0814/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -549,5 +552,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/gp0814/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/gp0814/LeetCode/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/gp0814/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
