@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/gp0814/LeetCode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gp0814/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/gp0814/LeetCode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1160-letter-tile-possibilities](https://github.com/gp0814/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/gp0814/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/gp0814/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/gp0814/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/gp0814/LeetCode/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/gp0814/LeetCode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/gp0814/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1160-letter-tile-possibilities](https://github.com/gp0814/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1197-parsing-a-boolean-expression](https://github.com/gp0814/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/gp0814/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/gp0814/LeetCode/tree/master/1304-longest-happy-string) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/gp0814/LeetCode/tree/master/0494-target-sum) |
+| [1160-letter-tile-possibilities](https://github.com/gp0814/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/gp0814/LeetCode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/gp0814/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gp0814/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/gp0814/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/gp0814/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/gp0814/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2300-construct-string-with-repeat-limit](https://github.com/gp0814/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
