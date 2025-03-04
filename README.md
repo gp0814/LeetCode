@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/gp0814/LeetCode/tree/master/0670-maximum-swap) |
 | [1477-product-of-the-last-k-numbers](https://github.com/gp0814/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/gp0814/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gp0814/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2716-prime-subtraction-operation](https://github.com/gp0814/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gp0814/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gp0814/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
