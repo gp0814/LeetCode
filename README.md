@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/gp0814/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/gp0814/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/gp0814/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gp0814/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/gp0814/LeetCode/tree/master/0454-4sum-ii) |
 | [0494-target-sum](https://github.com/gp0814/LeetCode/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gp0814/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/gp0814/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/gp0814/LeetCode/tree/master/0127-word-ladder) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gp0814/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/gp0814/LeetCode/tree/master/0454-4sum-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gp0814/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/gp0814/LeetCode/tree/master/0567-permutation-in-string) |
