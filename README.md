@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gp0814/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/gp0814/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/gp0814/LeetCode/tree/master/0204-count-primes) |
 | [0670-maximum-swap](https://github.com/gp0814/LeetCode/tree/master/0670-maximum-swap) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gp0814/LeetCode/tree/master/0002-add-two-numbers) |
 | [1197-parsing-a-boolean-expression](https://github.com/gp0814/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 ## Tree
 |  |
@@ -657,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/gp0814/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gp0814/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
