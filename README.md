@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/gp0814/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gp0814/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/gp0814/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gp0814/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/gp0814/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gp0814/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gp0814/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gp0814/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Prefix Sum
 |  |
 | ------- |
