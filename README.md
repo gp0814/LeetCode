@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/gp0814/LeetCode/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/gp0814/LeetCode/tree/master/0127-word-ladder) |
 | [0443-string-compression](https://github.com/gp0814/LeetCode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/gp0814/LeetCode/tree/master/0567-permutation-in-string) |
