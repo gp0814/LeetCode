@@ -473,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/gp0814/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gp0814/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/gp0814/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/gp0814/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/gp0814/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/gp0814/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/gp0814/LeetCode/tree/master/2716-prime-subtraction-operation) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gp0814/LeetCode/tree/master/0204-count-primes) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/gp0814/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/gp0814/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/gp0814/LeetCode/tree/master/2716-prime-subtraction-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/gp0814/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gp0814/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2164-two-best-non-overlapping-events](https://github.com/gp0814/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/gp0814/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/gp0814/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2554-minimum-total-distance-traveled](https://github.com/gp0814/LeetCode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/gp0814/LeetCode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/gp0814/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gp0814/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/gp0814/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
