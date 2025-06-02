@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gp0814/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/gp0814/LeetCode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/gp0814/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gp0814/LeetCode/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/gp0814/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/gp0814/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/gp0814/LeetCode/tree/master/3643-zero-array-transformation-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gp0814/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/gp0814/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gp0814/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gp0814/LeetCode/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/gp0814/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/gp0814/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/gp0814/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/gp0814/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/gp0814/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3451-string-compression-iii](https://github.com/gp0814/LeetCode/tree/master/3451-string-compression-iii) |
+| [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gp0814/LeetCode/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gp0814/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/gp0814/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## Sliding Window
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/gp0814/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gp0814/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/gp0814/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gp0814/LeetCode/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 ## Stack
 |  |
 | ------- |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/gp0814/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/gp0814/LeetCode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gp0814/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gp0814/LeetCode/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/gp0814/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/gp0814/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 ## Dynamic Programming
