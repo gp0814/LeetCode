@@ -1,3 +1,7 @@
+// Using Slop concept for the optimal solution
+// keeping trace of the increasing slop and descreasing slop
+
+
 class Solution {
     public int candy(int[] ratings) {
         int sum = 1;
