@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/gp0814/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3583-sorted-gcd-pair-queries](https://github.com/gp0814/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/gp0814/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gp0814/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gp0814/LeetCode/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gp0814/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/gp0814/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gp0814/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/gp0814/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/gp0814/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3583-sorted-gcd-pair-queries](https://github.com/gp0814/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gp0814/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Ordered Set
 |  |
 | ------- |
