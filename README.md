@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/gp0814/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gp0814/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0454-4sum-ii](https://github.com/gp0814/LeetCode/tree/master/0454-4sum-ii) |
+| [0485-max-consecutive-ones](https://github.com/gp0814/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/gp0814/LeetCode/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/gp0814/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/gp0814/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
