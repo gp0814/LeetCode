@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-sorted-gcd-pair-queries](https://github.com/gp0814/LeetCode/tree/master/3583-sorted-gcd-pair-queries) |
 | [3643-zero-array-transformation-ii](https://github.com/gp0814/LeetCode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/gp0814/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/gp0814/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/gp0814/LeetCode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3617-find-the-original-typed-string-i](https://github.com/gp0814/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/gp0814/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/gp0814/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/gp0814/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/gp0814/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3546-count-substrings-that-satisfy-k-constraint-ii](https://github.com/gp0814/LeetCode/tree/master/3546-count-substrings-that-satisfy-k-constraint-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/gp0814/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/gp0814/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/gp0814/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/gp0814/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/gp0814/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |
 | ------- |
