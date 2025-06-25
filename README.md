@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/gp0814/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gp0814/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/gp0814/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/gp0814/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2329-maximum-product-after-k-increments](https://github.com/gp0814/LeetCode/tree/master/2329-maximum-product-after-k-increments) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/gp0814/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/gp0814/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/gp0814/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/gp0814/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/gp0814/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/gp0814/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/gp0814/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/gp0814/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/gp0814/LeetCode/tree/master/2551-apply-operations-to-an-array) |
